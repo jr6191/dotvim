@@ -79,4 +79,4 @@ map <leader>ev :vsp %%
 set showbreak=…
 nmap <silent> <leader>s :set spell!<CR>
 set laststatus=2
-
+Helptags
