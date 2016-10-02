@@ -1,0 +1,8 @@
+:Commentary	vim-commentary-master\doc\commentary.txt	/*:Commentary*
+commentary.txt	vim-commentary-master\doc\commentary.txt	/*commentary.txt*
+gc	vim-commentary-master\doc\commentary.txt	/*gc*
+gcc	vim-commentary-master\doc\commentary.txt	/*gcc*
+gcgc	vim-commentary-master\doc\commentary.txt	/*gcgc*
+gcu	vim-commentary-master\doc\commentary.txt	/*gcu*
+o_gc	vim-commentary-master\doc\commentary.txt	/*o_gc*
+v_gc	vim-commentary-master\doc\commentary.txt	/*v_gc*
